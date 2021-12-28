@@ -1,0 +1,19 @@
+{
+  "name": "bens-node",
+  "version": "1.0.0",
+  "description": "A node for Ben",
+  "main": "ben.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+"node-red" : {
+        "nodes": {
+            "bens-node": "bens-node.js"
+        }
+    },
+
+
+  "author": "Andy Knight",
+  "license": "ISC"
+}
